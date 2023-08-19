@@ -1,0 +1,2 @@
+first type: g++ file_name.cpp -o binary_file_name
+then type: ./binary_file_name
