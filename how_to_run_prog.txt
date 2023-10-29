@@ -1,2 +1,5 @@
 first type: g++ file_name.cpp -o binary_file_name
 then type: ./binary_file_name
+
+if got a warning from a compiler about C++ version run like tthis:
+g++ -std=c++17 chapter5/simple_class.cpp -o chapter5/run
